@@ -202,6 +202,14 @@
       "category": "web",
       "code": "https://github.com/mostafagamal77/HTML_CSS-Template2",
       "demo": "https://mostafagamal77.github.io/HTML_CSS-Template2/"
+    },
+    {
+      "id": 12,
+      "src": "imgs/works/work12.webp",
+      "alt": "work image",
+      "category": "angular",
+      "code": "https://github.com/mostafagamal77/calculator",
+      "demo": "https://mostafagamal77.github.io/calculator/"
     }
   ]
 }
