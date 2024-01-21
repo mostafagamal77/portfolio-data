@@ -49,6 +49,12 @@
       "title": "Angular"
     },
     {
+      "id": 15,
+      "src": "imgs/skills-icons/primeng.webp",
+      "alt": "PrimeNG icon",
+      "title": "PrimeNG"
+    },
+    {
       "id": 9,
       "src": "imgs/skills-icons/firebase.webp",
       "alt": "firebase icon",
@@ -210,6 +216,22 @@
       "category": "angular",
       "code": "https://github.com/mostafagamal77/calculator",
       "demo": "https://mostafagamal77.github.io/calculator/"
+    },
+    {
+      "id": 13,
+      "src": "imgs/works/work13.webp",
+      "alt": "work image",
+      "category": "angular",
+      "code": "https://github.com/mostafagamal77/UI-Angular-Task",
+      "demo": "https://ui-angular.vercel.app/"
+    },
+    {
+      "id": 14,
+      "src": "imgs/works/work14.webp",
+      "alt": "work image",
+      "category": "angular",
+      "code": "https://github.com/mostafagamal77/Ostoora-Angular",
+      "demo": "https://ostoora-angular.vercel.app/"
     }
   ]
 }
