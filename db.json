@@ -138,6 +138,14 @@
       "demo": "https://mostafagamal77.github.io/portfolio-me/"
     },
     {
+      "id": 15,
+      "src": "imgs/works/work15.webp",
+      "alt": "work image",
+      "category": "crud angular",
+      "code": "https://github.com/mostafagamal77/Angular-CRUD",
+      "demo": "https://angular-crud-puce.vercel.app/"
+    },
+    {
       "id": 3,
       "src": "imgs/works/work3.webp",
       "alt": "work image",
