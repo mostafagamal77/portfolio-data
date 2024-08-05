@@ -49,6 +49,12 @@
       "title": "Angular"
     },
     {
+      "id": 17,
+      "src": "imgs/skills-icons/RxJs.webp",
+      "alt": "RxJs icon",
+      "title": "RxJs"
+    },
+    {
       "id": 16,
       "src": "imgs/skills-icons/angular-material.webp",
       "alt": "Angular Material icon",
@@ -101,9 +107,9 @@
   "currentlearning": [
     {
       "id": 1,
-      "src": "imgs/skills-icons/RxJs.webp",
-      "alt": "RxJs icon",
-      "title": "RxJs"
+      "src": "imgs/skills-icons/tailwind.webp",
+      "alt": "tailwind icon",
+      "title": "tailwind"
     }
   ],
   "futuresteps": [
@@ -112,12 +118,6 @@
       "src": "imgs/skills-icons/ngrx.webp",
       "alt": "NgRx icon",
       "title": "NgRx"
-    },
-    {
-      "id": 2,
-      "src": "imgs/skills-icons/tailwind.webp",
-      "alt": "tailwind icon",
-      "title": "tailwind"
     }
   ],
   "works": [
